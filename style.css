@@ -1,0 +1,41 @@
+header {
+  padding:2px;
+  font-family: "Arial";
+  font-size: 20px;
+}
+
+aside section{
+  background-image:url("Pointy.gif");
+}
+
+/*comment*/
+html{
+  background-color: #FFFF99;
+}
+
+p{
+  color: black;
+  font-size: 20px;
+  font-family: "Arial"
+}
+ul{
+  font-family:"Arial";
+}
+header h1{
+  text-align: center;
+  font-size: 70px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: black;
+  background-color:#B5DAFF;
+}
+aside section{
+  font-family: Arial;
+  font-size: 20px;
+}
+section article p{
+font-size: 30px;
+}
+.purple {
+  color: purple;
+}
