@@ -4,13 +4,10 @@ header {
   font-size: 20px;
 }
 
-aside section{
-  background-image:url("Pointy.gif");
-}
 
 /*comment*/
 html{
-  background-color: #FFFF99;
+  background-color: #EAF5FF;
 }
 
 p{
@@ -38,4 +35,8 @@ font-size: 30px;
 }
 .purple {
   color: purple;
+}
+
+.bucketlist{
+  font-family: "Courier New";
 }
